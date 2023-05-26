@@ -1,5 +1,12 @@
 ### Hi there 👋
 [![Biniyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amenbiniyam&show_icons=true&theme=dark)](https://github.com/Amenbiniyam)
+[![Build Status](https://img.shields.io/travis/Amenbiniyam/your-repo.svg)](https://travis-ci.org/Amenbiniyam/shareSystem_2023)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/biniyam-kefelegn-8a80ab102/)
+[![Twitter](https://img.shields.io/twitter/follow/your-username?style=social)](https://twitter.com/your-username)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amenbiniyam&layout=compact)](https://github.com/Amenbiniyam)
+
+[![Gist](https://img.shields.io/badge/Gist-View-lightgrey)](https://gist.github.com/Amenbiniyam/gist-id)
 
 <!--
 **Amenbiniyam/Amenbiniyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
